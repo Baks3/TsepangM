@@ -9,7 +9,8 @@ Hello! I am **Tsepang Mabizela**, a passionate software developer with a strong 
 I enjoy working on projects that challenge my skills and allow me to learn new technologies. My technical skill set includes:
 
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools & Technologies**: Git, Javalin, SQLite, CI/CD pipelines
+- **Tools & Technologies**: Git, Javalin, SQLite, CI/CD pipelines, UIPath (RPA)
+- **Languages**: Python, Java, C++, C#
 - **Soft Skills**: Communication, teamwork, report writing
 
 ---
