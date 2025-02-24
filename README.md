@@ -32,6 +32,11 @@ This is a simple dice simulator written in Python. The simulator allows you to r
 
 [ View on Github](https://github.com/Baks3/DiceRoll.git)
 
+### Todo List
+This is a simple command-line To-Do List application that allows users to add, remove, and view tasks efficiently. It helps users stay organized by managing their daily tasks in a structured way.
+
+[View on Github](https://github.com/Baks3/ToDo-List.git)
+
 ---
 
 ## 💻 Skills
