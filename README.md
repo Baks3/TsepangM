@@ -20,12 +20,17 @@ I enjoy working on projects that challenge my skills and allow me to learn new t
 ### 🤖 Robot World Project
 A client-server application showcasing multiple robot functionalities, server communications, and CI/CD pipelines. This project highlights my ability to integrate complex systems.
 
-[🔗 View on GitHub](https://github.com/yourgithubusername/robot-world)
+[🔗 View on GitHub](https://github.com/Baks3/robot-world)
 
 ### 📚 Library Management System
 A system that involves lending books to members, enhancing my understanding of database management and user interaction.
 
-[🔗 View on GitHub](https://github.com/yourgithubusername/library-management-system)
+[🔗 View on GitHub](https://github.com/Baks3/library-management-system)
+
+### Dice Roll Game 
+This is a simple dice simulator written in Python. The simulator allows you to roll a virtual dice and displays the result graphically in the terminal.
+
+[ View on Github](https://github.com/Baks3/DiceRoll.git)
 
 ---
 
