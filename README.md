@@ -20,7 +20,7 @@ I enjoy working on projects that challenge my skills and allow me to learn new t
 ### 🤖 Robot World Project
 A client-server application showcasing multiple robot functionalities, server communications, and CI/CD pipelines. This project highlights my ability to integrate complex systems.
 
-[🔗 View on GitHub](https://github.com:Baks3/Robot-Toy.git)
+[🔗 View on GitHub](https://github.com/Baks3/Robot-Toy.git)
 
 ### Dictionary Application
 This is a simple **dictionary application** written in Python. It reads word definitions from a JSON file and allows users to search for words in a **case-insensitive** manner. The application provides the **definition** for the given word if it exists in the dictionary.
