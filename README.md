@@ -22,7 +22,7 @@ A client-server application showcasing multiple robot functionalities, server co
 
 [🔗 View on GitHub](https://github.com:Baks3/Robot-Toy.git)
 
-### 📚 Library Management System
+### 📚 Dictionary Application
 This is a simple **dictionary application** written in Python. It reads word definitions from a JSON file and allows users to search for words in a **case-insensitive** manner. The application provides the **definition** for the given word if it exists in the dictionary.
 
 [🔗 View on GitHub](https://github.com/Baks3/Dictionary.git)
