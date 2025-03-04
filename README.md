@@ -22,7 +22,7 @@ A client-server application showcasing multiple robot functionalities, server co
 
 [🔗 View on GitHub](https://github.com:Baks3/Robot-Toy.git)
 
-### 📚 Dictionary Application
+### Dictionary Application
 This is a simple **dictionary application** written in Python. It reads word definitions from a JSON file and allows users to search for words in a **case-insensitive** manner. The application provides the **definition** for the given word if it exists in the dictionary.
 
 [🔗 View on GitHub](https://github.com/Baks3/Dictionary.git)
@@ -30,12 +30,12 @@ This is a simple **dictionary application** written in Python. It reads word def
 ### Dice Roll Game 
 This is a simple dice simulator written in Python. The simulator allows you to roll a virtual dice and displays the result graphically in the terminal.
 
-[ View on Github](https://github.com/Baks3/DiceRoll.git)
+[🔗 View on Github](https://github.com/Baks3/DiceRoll.git)
 
 ### Todo List
 This is a simple command-line To-Do List application that allows users to add, remove, and view tasks efficiently. It helps users stay organized by managing their daily tasks in a structured way.
 
-[View on Github](https://github.com/Baks3/ToDo-List.git)
+[🔗 View on Github](https://github.com/Baks3/ToDo-List.git)
 
 ---
 
