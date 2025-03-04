@@ -20,12 +20,12 @@ I enjoy working on projects that challenge my skills and allow me to learn new t
 ### 🤖 Robot World Project
 A client-server application showcasing multiple robot functionalities, server communications, and CI/CD pipelines. This project highlights my ability to integrate complex systems.
 
-[🔗 View on GitHub](https://github.com/Baks3/robot-world)
+[🔗 View on GitHub](https://github.com:Baks3/Robot-Toy.git)
 
 ### 📚 Library Management System
-A system that involves lending books to members, enhancing my understanding of database management and user interaction.
+This is a simple **dictionary application** written in Python. It reads word definitions from a JSON file and allows users to search for words in a **case-insensitive** manner. The application provides the **definition** for the given word if it exists in the dictionary.
 
-[🔗 View on GitHub](https://github.com/Baks3/library-management-system)
+[🔗 View on GitHub](https://github.com/Baks3/Dictionary.git)
 
 ### Dice Roll Game 
 This is a simple dice simulator written in Python. The simulator allows you to roll a virtual dice and displays the result graphically in the terminal.
